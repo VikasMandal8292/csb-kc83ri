@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vikasmandal8292.github.io/csb-kc83ri/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/runtime-main.86604063.js",
+    "runtime-main.js.map": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/runtime-main.86604063.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://vikasmandal8292.github.io/csb-kc83ri/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vikasmandal8292.github.io/csb-kc83ri/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://vikasmandal8292.github.io/csb-kc83ri/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86604063.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
